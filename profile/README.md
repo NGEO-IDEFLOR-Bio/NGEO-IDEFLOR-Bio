@@ -1,30 +1,18 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="left" width="20%" style="border: none;">
-      <img src="logo_ngeo.png" alt="Logo NGEO" height="100">
-    </td>
-    <td width="60%" style="border: none;"></td>
-    <td align="right" width="20%" style="border: none;">
-      <img src="logo-Ideflor-bio.png" alt="Logo IDEFLOR-Bio" height="100">
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;"></td>
-    <td align="center" style="border: none;">
-      <h1>NGEO/IDEFLOR-Bio</h1>
-    </td>
-    <td style="border: none;"></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;"></td>
-    <td align="center" style="border: none;">
-      <b>Espaço de Colaboração e Desenvolvimento</b>
-    </td>
-    <td style="border: none;"></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="logo_ngeo.png" height="90" align="left">
+  <img src="logo-Ideflor-bio.png" height="90" align="right">
+  
+  <br>
+  
+  <h1 align="center">NGEO/IDEFLOR-Bio</h1>
+  <p align="center"><b>Espaço de Colaboração e Desenvolvimento</b></p>
+</div>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzIiB2aWV3Qm94PSIwIDAgMTAwIDMiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIzIiBmaWxsPSIjMmU3ZDMyIi8+PC9zdmc+" width="100%" height="3" style="display: block; margin: 10px 0;">
+<br clear="all">
+
+<p align="center">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAEfQH/CyN6fQAAAABJRU5ErkJggg==" width="100%" height="3">
+</p>
 
 <p align="center">
 Esta organização constitui o ambiente de trabalho institucional do <b>NGEO/IDEFLOR-Bio</b> no GitHub. Este espaço centraliza a governança de projetos, o desenvolvimento de scripts de automação e o versionamento de toda a documentação técnica produzida pelo Núcleo de Geotecnologias, assegurando a padronização e a rastreabilidade dos ativos digitais.
