@@ -1,19 +1,32 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="left" width="33%">
+    <td align="left" width="20%">
       <img src="logo_ngeo.png" alt="Logo NGEO" height="100">
     </td>
-    <td align="center" width="34%">
-      <h1 align="center">NGEO/IDEFLOR-Bio</h1>
-      <p align="center"><b>Espaço de Colaboração e Desenvolvimento</b></p>
-    </td>
-    <td align="right" width="33%">
+    <td width="60%"></td>
+    <td align="right" width="20%">
       <img src="logo-Ideflor-bio.png" alt="Logo IDEFLOR-Bio" height="100">
     </td>
   </tr>
+  <tr>
+    <td></td>
+    <td align="center">
+      <h1>NGEO/IDEFLOR-Bio</h1>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center">
+      <b>Espaço de Colaboração e Desenvolvimento</b>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=2e7d32&height=3&section=header&text=%20" width="100%" />
+</p>
 
 <p align="center">
 Esta organização constitui o ambiente de trabalho institucional do <b>NGEO/IDEFLOR-Bio</b> no GitHub. Este espaço centraliza a governança de projetos, o desenvolvimento de scripts de automação e o versionamento de toda a documentação técnica produzida pelo Núcleo de Geotecnologias, assegurando a padronização e a rastreabilidade dos ativos digitais.
