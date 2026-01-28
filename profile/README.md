@@ -1,12 +1,14 @@
-<div style="display: flex; justify-content: center; gap: 40px; align-items: center; padding: 20px 0; margin-bottom: 20px;">
-  <img src="logo_ngeo.png" alt="Logo NGEO" style="height: 100px; width: auto;">
-  <img src="logo-Ideflor-bio.png" alt="Logo IDEFLOR-Bio" style="height: 100px; width: auto;">
+<div align="center">
+  <img src="logo_ngeo.png" alt="Logo NGEO" height="100">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="logo-Ideflor-bio.png" alt="Logo IDEFLOR-Bio" height="100">
 </div>
 
-<div style="height: 3px; background: linear-gradient(to right, #2d7a3e); margin-bottom: 20px;"></div>
+---
 
-<h1 style="text-align: center; margin: 20px 0; font-size: 36px;">NGEO/IDEFLOR-Bio</h1>
-<p style="text-align: center; color: #666; font-size: 16px; margin-bottom: 20px;">Espaço de Colaboração e Desenvolvimento</p>
+# NGEO/IDEFLOR-Bio
+
+**Espaço de Colaboração e Desenvolvimento**
 
 ---
 
